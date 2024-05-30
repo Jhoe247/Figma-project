@@ -1,0 +1,7 @@
+main ul li svg{
+    width: 15px;
+    height: 15px;
+}
+.img{
+    border-image: round;
+}
